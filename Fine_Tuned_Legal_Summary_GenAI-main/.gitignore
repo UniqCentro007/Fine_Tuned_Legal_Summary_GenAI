@@ -1,0 +1,6 @@
+.env.local
+.env
+node_modules/
+__pycache__/
+saved_legal_model/
+uploads/

@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfminer.six
+transformers>=4.35.0
+peft>=0.5.0
+torch>=2.0.0
+datasets
+huggingface-hub
+python-dotenv
